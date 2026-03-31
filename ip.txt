@@ -1,13 +1,67 @@
-38.99.126.84
-91.132.49.186
-216.92.133.17
-89.40.174.17
-69.6.213.92
-102.88.10.133
-43.174.45.97
-39.102.214.192
-154.198.219.77
-203.12.234.181
-69.6.214.83
-172.121.107.226
-95.86.93.71
+##############Bing##############
+http://thegoldennewspaperonline.com/post.php?p_id=100
+https://www.talkinbroadway.com/allthatchat_new/post.php?p_id=2426486
+http://alg.us.com/post.php?p_id=3
+http://valeofeveshamschool.org/blog/blogPost.php?pId=320
+http://www.alg.us.com/post.php?p_id=2
+http://www.firstcontact.co/blog/post.php?p_id=241
+http://forum.jimsteinman.com/messageboard/post.php?p_id=50161
+http://kpakerala.com/post.php?p_id=2
+https://www.womenscoin.com/post.php?p_id=25
+http://theparliamentfacebd.com/post.php?p_id=15
+http://www.ligascoop.org/post.php?p_id=18
+http://www.filipinohealthcare.com/post.php?pID=12
+http://jirech.net/post.php?p_id=1
+http://www.firstcontact.co/blog/post.php?p_id=233
+http://www.manhattangroup.co/post.php?p_id=6
+http://stratcomm-africa.com/post.php?p_id=28
+http://pccg.co.me/post.php?p_id=145
+http://www.ligascoop.org/post.php?p_id=20
+http://www.didisgroup.com/post.php?p_id=2
+http://www.pccg.co.me/post.php?p_id=141
+http://www.bazmesukhan.com/post.php?p_id=6
+http://www.talenttakeone.co.za/profile_post.php?p_id=530
+http://www.manhattangroup.co/post.php?p_id=24
+https://www.progresibotime.com/post.php?p_id=569
+http://www.front2back-it.co.uk/post.php?p_id=27
+http://toinformfamiliesfirst.org/post.php?p_id=4
+http://www.filipinohealthcare.com/post.php?pID=7
+http://konrukpra.com/Post.php?pId=37
+http://youthmoth.com/post.php?pId=
+http://youthmoth.com/post.php?pId=84
+https://club.foto.ru/forum/view_post.php?p_id=10660964
+https://club.foto.ru/forum/view_post.php?p_id=12560534
+http://www.csascarmignan.it/it/post.php?pId=2747
+https://www.humanrestart.org/post.php?p_id=71
+http://www.kfmcity.med.sa/post.php?p_id=35
+https://www.humanrestart.org/post.php?p_id=51
+
+
+
+http://kfmcity.med.sa/post.php?p_id=45
+http://www.csascarmignan.it/it/post.php?pId=2754 /admin
+
++----+-----+-------+-------+---------------+-------------------------------------------+-------------+----------------+
+| id | cId | ruolo | stato | username      | password                                  | referente   | ultimo_accesso |
++----+-----+-------+-------+---------------+-------------------------------------------+-------------+----------------+
+| 4  | 5   | 1     | 1     | csascarmignan | *729AB1DBA8C4F7704637353F6EC5B1FABFCAD5DA | Elisa Oppio | 2018-09-05     |merlara
+| 5  | 5   | 1     | 1     | luca.zulian   | *4ACFE3202A5FF5CF467898FC58AAB1D615029441 | Luca Zulian | 2018-06-20     |admin
++----+-----+-------+-------+---------------+-------------------------------------------+-------------+----------------+
+
+https://www.grand-multiplayer.com/post.php?p_id=17
+
+
+
+http://www.csascarmignan.it/it/post.php?pId=2759
+https://samarcollege.edu.ph/post.php?p_id=52
+http://www.tagublog.com/ver-post.php?p_id=369&q=techos de casas*
+
+http://www.holooltech.com/post.php?p_id=14*
+http://zhaopin.zol.com.cn/control/hotjob_post.php?p_id=305*
+http://ipabdanielato.it/it/post.php?pId=732(sqli) http://www.ipabdanielato.it/wp-login.php 5.134.120.0-21
++----+-----+-------+-------+----------------+-------------------------------------------+-------------+----------------+
+| id | cId | ruolo | stato | username       | password                                  | referente   | ultimo_accesso |
++----+-----+-------+-------+----------------+-------------------------------------------+-------------+----------------+
+| 1  | 2   | 1     | 1     | ipab.danielato | *4ACFE3202A5FF5CF467898FC58AAB1D615029441 | Cinzia      | 2018-02-22     |
+| 2  | 0   | 1     | 1     | luca.zulian    | *78256442A4088F4A53FC12480119F33F4F6376A8 | Luca Zulian | 2018-02-12     |
++----+-----+-------+-------+----------------+-------------------------------------------+-------------+----------------+
